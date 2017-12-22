@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/auth",
+  "name": "dom1no/auth-module",
   "version": "3.2.1",
   "description": "Authentication module for Nuxt.js",
   "license": "MIT",
